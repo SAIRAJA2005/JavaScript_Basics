@@ -1,5 +1,7 @@
 /*
 
+
+
 DOM operations:
 The Document Object Model (DOM) is a way to interact with HTML documents using JavaScript. 
 It allows you to access and manipulate elements, change content, handle events, and more. 

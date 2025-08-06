@@ -1,3 +1,5 @@
+DATA TYPES : 
+
 /*
 
 | Data Type     | Example                                   |
@@ -34,5 +36,7 @@ console.log("Type of booleanExample:", typeof booleanExample); // boolean
 console.log("Type of nullExample:", typeof nullExample); // object (this is a known quirk in JavaScript)
 console.log("Type of undefinedExample:", typeof undefinedExample); // undefined
 console.log("Type of symbolExample:", typeof symbolExample); // symbol
+
+
 
 
